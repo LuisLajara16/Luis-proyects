@@ -55,9 +55,7 @@ cout<< left<< setw(13)<<nombre<< left<< setw(13)<<apellido<< left << setw(17)<<c
 
 
 }
-system("pause");
-system("cls");
-        goto programa;
+Return 0; 
 }
 
 
